@@ -2,6 +2,11 @@
 
 **Systematic research framework with LIGHT and DEEP modes — breadth scan or full investigation pipeline.**
 
+## Prerequisites
+
+- **Claude Cowork or Claude Code** environment
+- **Web search access** — recommended for DEEP mode research
+
 ## Goal
 
 Research without structure wastes time on irrelevant details or misses critical insights. Research-Frame provides a three-axis methodology (WHY, HOW, SCOPE) that scales from quick breadth scans (LIGHT mode) to rigorous multi-phase investigations (DEEP mode), ensuring your findings are complete, bias-aware, and actionable.
