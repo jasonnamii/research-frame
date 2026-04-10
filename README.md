@@ -1,5 +1,7 @@
 # research-frame
 
+> 🇰🇷 [한국어 README](./README.ko.md)
+
 **Systematic research framework with LIGHT and DEEP modes — breadth scan or full investigation pipeline.**
 
 ## Prerequisites
