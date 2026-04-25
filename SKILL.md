@@ -1,7 +1,7 @@
 ---
 name: research-frame
 description: "체계적 리서치 프레임 WHY·HOW·SCOPE + BLIND·EXPAND + 7층 사고·트리거연동. LIGHT↔DEEP↔TURBO 3모드 + EXPAND 전용. v2.7: 시스템3(EVIDENCE_BODY·SOURCE_CONTRAST·CLAIM_PROVENANCE) + 본질5(양적포화·1차출처·정량불확실성·반증대칭·시간성). v2.6 트리거 28도구·5장르·MECE 맹점방어. P1: 리서치프레임, 리서치설계, 리서치스킬, 가설검증, 교차분석, 연역수렴, 반대증거, 축별조사, 프레임설계, 라이트리서치, 딥리서치, 터보리서치, TURBO, EXPAND, 리서치맹점, 프레임맹점, MECE맹점, 맹점감지, 프레임밖, 가설외, 대안프레임, 7층사고, 장르분류, 5장르, 양적포화, 1차출처, 정량불확실성, 반증대칭, 시간성, EVIDENCE_BODY, SOURCE_CONTRAST, CLAIM_PROVENANCE. P2: 리서치해줘, 조사해줘, 축별분석해줘, 가설분석해줘, 라이트·딥·터보·확장 리서치 해줘, 리서치맹점 찾아줘, 프레임 밖도 봐줘, research, blindspot, expand research. P3: research frame, hypothesis verification, cross-analysis, blindspot detection, frame-external exploration, trigger orchestration, 5-genre matrix, evidence body, source contrast, claim provenance. P4: 본격 리서치, 다축 조사, 시간 병목, 가설 의심, 본문에 원자료 인용 필요. P5: _research/로, .md로. NOT: 정책기획(→policy-planning), 단순팩트체크(→직접수행), 소스인용(→UP §E)."
-version: 2.7
+version: 2.8
 ---
 
 # Research Frame — WHY·HOW·SCOPE + 7층 사고
